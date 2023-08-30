@@ -1,4 +1,8 @@
-## Linear Shrinkage Measurement App
+## Linear Shrinkage Measurement Software
+
+Author: Emmannuel Bamidele
+
+Cite: 
 
 ### Description
 
