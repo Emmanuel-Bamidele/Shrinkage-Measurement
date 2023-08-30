@@ -2,7 +2,9 @@
 
 Author: Emmannuel Bamidele
 
-Cite: 
+Cite as: 
+
+Bamidele, Emmanuel. 2023. "Shrinkage Measurement Software." Version 1.0. Figshare. https://doi.org/10.6084/m9.figshare.24054207
 
 ### Description
 
