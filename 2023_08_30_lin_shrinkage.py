@@ -100,7 +100,7 @@ class ShrinkageMeasurementApp:
         self.label_detected_shrinkage = tk.Label(root, text="Detected Shrinkage: None")
         self.label_detected_shrinkage.grid(row=2, column=1, padx=pad_x, pady=pad_y)
 
-        self.label_known_distance = tk.Label(root, text="Known Distance: ")
+        self.label_known_distance = tk.Label(root, text="Frame-1 Length: ")
         self.label_known_distance.grid(row=2, column=2, padx=pad_x, pady=pad_y)
 
         self.entry_known_distance = tk.Entry(root, width=8)
